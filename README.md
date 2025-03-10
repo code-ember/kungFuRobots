@@ -1,4 +1,4 @@
-# kungFuRobots
+# RobotkungFu
 Implement multiple inheritance with Java
 
 ## Introduction
