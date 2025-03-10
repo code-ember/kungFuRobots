@@ -1,4 +1,4 @@
-# SideKickInterface
+# RobotSideKickInterface
 Implement multiple inheritance with Java
 
 ## Introduction
