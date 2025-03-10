@@ -1,4 +1,4 @@
-# RobotkungFu
+# SideKickInterface
 Implement multiple inheritance with Java
 
 ## Introduction
